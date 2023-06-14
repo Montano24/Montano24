@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Montano24
+- 👀 I’m interested in starting my tech carreer.
+- 🌱 I’m currently learning web develpment via the Odin project.
